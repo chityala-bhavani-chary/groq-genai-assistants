@@ -1,0 +1,5 @@
+streamlit>=1.28
+groq>=0.4
+pandas>=2.0
+matplotlib>=3.7
+pypdf>=4.0
